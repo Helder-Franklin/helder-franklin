@@ -1,7 +1,11 @@
-## Olá, eu sou o Hélder! _Desenvolvedor full stack em busca de aperfeiçoamento constante_
+## Hello, I'm Hélder Franklin! 
 
-🔭 Trabalhei como desenvolvedor de software **_back-end_** por 2 anos. </br>
-🌱 Atualmente estudo **Javascript** e seus frameworks, com foco maior no **_front-end_**. </br>
+_**Full stack developer looking for constant improvement**_ 🔍
+
+🔭 I initially worked with **_back-end_** for 2 years, in the Brazilian retail sector.
+- I am currently a Full-stack developer in the Research & Development sector 🌐
+
+🌱 My focus is the study of **Javascript** and its frameworks, to delve deeper into WEB development!
 
 <div>
   <a href="https://github.com/helder-franklin/">
@@ -10,8 +14,17 @@
 
   ----
 <div>
-  
 </div>
+
+### Olá, eu sou o Hélder! 
+
+_**Desenvolvedor full stack em busca de aperfeiçoamento constante**_ 🔍
+
+🔭 Trabalhei inicialmente com **_back-end_** por 2 anos, no setor de varejo brasileiro.
+- Atualmente sou desenvolvedor Full-stack no setor de Pesquisa e Desenvolvimento 🌐
+
+🌱 Meu foco é o estudo do **Javascript** e seus frameworks, para me aprofundar no desenvolvimento WEB!
+
 
 <!--
 - 🔭 I’m currently working on ...
