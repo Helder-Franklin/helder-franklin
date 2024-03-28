@@ -24,7 +24,7 @@ _**Full Stack developer at <a href="https://web.wca-ti.com.br/">WCA Technology</
 
 <div>
   <a href="https://github.com/helder-franklin/">
-    <img height="200em" hspace=20px src="https://github-readme-stats.vercel.app/api?username=Helder-franklin&hide=issues,contribs&show_icons=true&show=reviews&theme=highcontrast" /><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helder-franklin&layout=donut&theme=highcontrast" />
+    <img height="150em" hspace=20px src="https://github-readme-stats.vercel.app/api?username=Helder-franklin&hide=issues,contribs&show_icons=true&show=reviews&theme=highcontrast" /><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helder-franklin&layout=donut&theme=highcontrast" />
 </div>
 
 </br>
