@@ -2,8 +2,8 @@
 
 _**Full Stack developer at <a href="https://web.wca-ti.com.br/">WCA Technology</a> looking for constant improvement**_ 🔍
 
-🔭 I initially worked with **_back-end_** for 2 years, in the Brazilian retail sector.
-- I am currently a Full Stack developer in the Research & Development sector 🌐
+🔭 I initially worked with **_back-end_** for 2 years, in the Brazilian retail sector (Delphi, PL/SQL, FastReport/QuickReport, ERP).
+- I am currently a Full Stack developer in the Research & Development sector (Ext JS, UniGUI, HTML, CSS, SQL Server, Delphi) 🌐
   
 🌱 My focus is the study of **Javascript** and its frameworks, to delve deeper into WEB development!
 <br>
@@ -18,6 +18,7 @@ _**Full Stack developer at <a href="https://web.wca-ti.com.br/">WCA Technology</
 <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 [![GitHub Helder](https://img.shields.io/github/followers/helder-franklin?label=follow&style=social)](https://github.com/Helder-Franklin)
 
 ----
