@@ -5,7 +5,7 @@ _**Full Stack developer at <a href="https://web.wca-ti.com.br/">WCA Technology</
 🔭 I initially worked with **_back-end_** for 2 years, in the Brazilian retail sector (Delphi, PL/SQL, FastReport/QuickReport, ERP).
 - I am currently a Full Stack developer in the Research & Development sector (Ext JS, UniGUI, HTML, CSS, SQL Server, Delphi) 🌐
   
-🌱 My focus is the study of **Javascript** and its frameworks, to delve deeper into WEB development!
+🌱 I'm studying **NodeJS** and **React** right now, to delve deeper into WEB development! But consider me available to study be your role need!
 <br>
 
 ### _Some tools:_
