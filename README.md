@@ -1,9 +1,10 @@
 # Hello, I'm Hélder Franklin! _(He/Him)_
 
-_**Full Stack developer at <a href="https://web.wca-ti.com.br/">WCA Technology</a> looking for constant improvement**_ 🔍
+_**Integration Consultant at <a href="https://[web.wca-ti.com.br](https://compliancesolucoes.com.br/)/">Compliance</a>, looking for constant improvement**_ 🔍
 
-🔭 I initially worked with **_back-end_** for 2 years, in the Brazilian retail sector (Delphi, PL/SQL, FastReport/QuickReport, ERP).
-- I am currently a Full Stack developer in the Research & Development sector (Ext JS, UniGUI, HTML, CSS, SQL Server, Delphi) 🌐
+🔭 I initially worked with **_back-end_** for 2 years, in the Brazilian retail sector (Delphi, PL/SQL, FastReport/QuickReport, ERP) 🛒;
+- Then I worked as a Full Stack developer in the Research & Development sector (Ext JS, UniGUI, HTML, CSS, SQL Server, Delphi) 🌐;
+- Nowadays I'm an Integration Consultant, providing trustable database connection between the company's software products and the most famous ERPs (Oracle Cloud, SAP, Infor, Netsuite / SQL Server, MySQL, PLSQL)
   
 🌱 I'm studying **NodeJS** and **React** right now, to delve deeper into WEB development! But consider me available to study be your role need!
 <br>
