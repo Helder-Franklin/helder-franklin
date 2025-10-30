@@ -2,16 +2,18 @@
 
 _**Integration Consultant at <a href="https://[web.wca-ti.com.br](https://compliancesolucoes.com.br/)/">Compliance</a>, looking for constant improvement**_ 🔍
 
-🔭 I initially worked with **_back-end_** for 2 years, in the Brazilian retail sector (Delphi, PL/SQL, FastReport/QuickReport, ERP) 🛒;
+- I initially worked with **_back-end_** for 2 years, in the Brazilian retail sector (Delphi, PL/SQL, FastReport/QuickReport, ERP) 🛒; 
 - Then I worked as a Full Stack developer in the Research & Development sector (Ext JS, UniGUI, HTML, CSS, SQL Server, Delphi) 🌐;
-- Nowadays I'm an Integration Consultant, providing trustable database connection between the company's software products and the most famous ERPs (Oracle Cloud, SAP, Infor, Netsuite / SQL Server, MySQL, PLSQL)
   
-🌱 I'm studying **NodeJS** and **React** right now, to delve deeper into WEB development! But consider me available to study be your role need!
+🔭 Nowadays I'm an Integration Consultant, providing trustable database connection between the company's software products and the most famous ERPs (Oracle Cloud, SAP, Infor, Netsuite / SQL Server, MySQL, PLSQL)
+  
+🌱 I'm studying **Node** and **Vue** right now, to delve deeper into WEB development! But consider me available to learn and work with the software challenges as you need!
 <br>
 
 ### _Some tools:_
 
 ![ViewCount](https://views.whatilearened.today/views/github/helder-franklin/view.svg)
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
@@ -26,7 +28,8 @@ _**Integration Consultant at <a href="https://[web.wca-ti.com.br](https://compli
 
 <div>
   <a href="https://github.com/helder-franklin/">
-    <img height="150em" hspace=20px src="https://github-readme-stats.vercel.app/api?username=Helder-franklin&hide=issues,contribs&show_icons=true&show=reviews&theme=highcontrast" /><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helder-franklin&layout=donut&theme=highcontrast" />
+    <!-- <img height="150em" hspace=20px src="https://github-readme-stats.vercel.app/api?username=Helder-franklin&hide=issues,contribs&show_icons=true&show=reviews&theme=highcontrast" /> -->
+    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helder-franklin&layout=donut&theme=highcontrast" />
 </div>
 
 </br>
